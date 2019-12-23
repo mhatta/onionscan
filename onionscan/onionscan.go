@@ -2,9 +2,9 @@ package onionscan
 
 import (
 	"fmt"
-	"github.com/s-rah/onionscan/config"
-	"github.com/s-rah/onionscan/protocol"
-	"github.com/s-rah/onionscan/report"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/protocol"
+	"github.com/mhatta/onionscan/report"
 	"time"
 )
 
