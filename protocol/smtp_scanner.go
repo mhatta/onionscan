@@ -5,9 +5,9 @@ import (
 	"crypto/sha1"
 	"encoding/hex"
 	"fmt"
-	"../config"
-	"../report"
-	"../utils"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/report"
+	"github.com/mhatta/onionscan/utils"
 )
 
 type SMTPProtocolScanner struct {

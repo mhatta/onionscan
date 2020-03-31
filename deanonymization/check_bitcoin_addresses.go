@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"crypto/sha256"
 	"errors"
-	"../config"
-	"../report"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/report"
 	"regexp"
 	"strings"
 )

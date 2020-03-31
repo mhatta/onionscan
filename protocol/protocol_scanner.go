@@ -1,8 +1,8 @@
 package protocol
 
 import (
-	"../config"
-	"../report"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/report"
 )
 
 type Scanner interface {

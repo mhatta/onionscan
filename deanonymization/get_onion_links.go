@@ -2,10 +2,10 @@ package deanonymization
 
 import (
 	"fmt"
-	"../config"
-	"../model"
-	"../report"
-	"../utils"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/model"
+	"github.com/mhatta/onionscan/report"
+	"github.com/mhatta/onionscan/utils"
 	"net"
 	"net/url"
 	"regexp"

@@ -2,9 +2,9 @@ package onionscan
 
 import (
 	"fmt"
-	"../config"
-	"../protocol"
-	"../report"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/protocol"
+	"github.com/mhatta/onionscan/report"
 	"time"
 )
 

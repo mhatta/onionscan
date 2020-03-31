@@ -2,11 +2,11 @@ package protocol
 
 import (
 	"fmt"
-	"../config"
-	"../report"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/report"
 
-	"../spider"
-	"../utils"
+	"github.com/mhatta/onionscan/spider"
+	"github.com/mhatta/onionscan/utils"
 	"net/http"
 )
 

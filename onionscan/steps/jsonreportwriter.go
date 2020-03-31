@@ -3,7 +3,7 @@ package steps
 import (
 	"bytes"
 	"fmt"
-	"../report"
+	"github.com/mhatta/onionscan/report"
 	"log"
 	"os"
 	"time"

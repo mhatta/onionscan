@@ -2,9 +2,9 @@ package protocol
 
 import (
 	"fmt"
-	"../config"
-	"../report"
-	"../utils"
+	"github.com/mhatta/onionscan/config"
+	"github.com/mhatta/onionscan/report"
+	"github.com/mhatta/onionscan/utils"
 )
 
 type XMPPProtocolScanner struct {

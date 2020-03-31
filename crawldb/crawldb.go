@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/HouzuoGuo/tiedot/db"
-	"../model"
+	"github.com/mhatta/onionscan/model"
 	"log"
 	"time"
 )
