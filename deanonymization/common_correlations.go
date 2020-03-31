@@ -1,8 +1,8 @@
 package deanonymization
 
 import (
-	"github.com/mhatta/onionscan/config"
-	"github.com/mhatta/onionscan/report"
+	"../config"
+	"../report"
 	"strconv"
 	"strings"
 )

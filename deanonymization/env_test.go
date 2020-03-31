@@ -1,10 +1,10 @@
 package deanonymization
 
 import (
-	"github.com/mhatta/onionscan/config"
-	"github.com/mhatta/onionscan/crawldb"
-	"github.com/mhatta/onionscan/model"
-	"github.com/mhatta/onionscan/report"
+	"../config"
+	"../crawldb"
+	"../model"
+	"../report"
 	"io/ioutil"
 	"net/http"
 	"os"

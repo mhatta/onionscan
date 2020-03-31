@@ -3,9 +3,9 @@ package webui
 import (
 	"errors"
 	"fmt"
-	"github.com/mhatta/onionscan/config"
-	"github.com/mhatta/onionscan/crawldb"
-	"github.com/mhatta/onionscan/utils"
+	"../config"
+	"../crawldb"
+	"../utils"
 	"html/template"
 	"log"
 	"net/http"

@@ -2,9 +2,9 @@ package protocol
 
 import (
 	"fmt"
-	"github.com/mhatta/onionscan/config"
-	"github.com/mhatta/onionscan/report"
-	"github.com/mhatta/onionscan/utils"
+	"../config"
+	"../report"
+	"../utils"
 )
 
 type VNCProtocolScanner struct {

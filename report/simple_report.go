@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/mhatta/onionscan/utils"
+	"../utils"
 )
 
 const SEV_INFO = "info"

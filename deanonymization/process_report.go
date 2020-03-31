@@ -1,9 +1,9 @@
 package deanonymization
 
 import (
-	"github.com/mhatta/onionscan/config"
-	"github.com/mhatta/onionscan/report"
-	"github.com/mhatta/onionscan/utils"
+	"../config"
+	"../report"
+	"../utils"
 )
 
 // ExtractIdentifierStep is a pipeline step which extracts as many relationships

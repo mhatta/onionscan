@@ -1,8 +1,8 @@
 package deanonymization
 
 import (
-	"github.com/mhatta/onionscan/report"
-	"github.com/mhatta/onionscan/utils"
+	"../report"
+	"../utils"
 	"io/ioutil"
 	"strings"
 	"testing"

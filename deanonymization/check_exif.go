@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"github.com/rwcarlsen/goexif/exif"
 	"github.com/rwcarlsen/goexif/tiff"
-	"github.com/mhatta/onionscan/config"
-	"github.com/mhatta/onionscan/report"
+	"../config"
+	"../report"
 	"net/url"
 	"strings"
 )

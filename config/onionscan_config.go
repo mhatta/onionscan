@@ -3,7 +3,7 @@ package config
 import (
 	"bufio"
 	"fmt"
-	"github.com/mhatta/onionscan/crawldb"
+	"../crawldb"
 	"log"
 	"net/http"
 	"os"
