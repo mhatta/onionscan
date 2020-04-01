@@ -10,7 +10,7 @@ import (
 )
 
 // ApacheModStatus extracts any information related to exposed mod_status endpoints.
-// FIXME: We can make this much smarted than it currently is.
+// FIXME: We can make this much smarter than it currently is.
 func ApacheModStatus(osreport *report.OnionScanReport, report *report.AnonymityReport, osc *config.OnionScanConfig) {
 	modStatus, _ := url.Parse("http://" + osreport.HiddenService + "/server-status")
 	id := osreport.Crawls[modStatus.String()]
