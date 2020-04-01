@@ -29,7 +29,7 @@ OnionScan has two primary goals:
 
 ### A Note on Dependencies
 
-OnionScan requires either Go 1.6 or 1.7.
+OnionScan requires Go 1.6 or later.  I test the current version with Go 1.14.1.
 
 In order to install OnionScan you will need the following dependencies not 
 provided by the core go standard library:
@@ -96,4 +96,6 @@ You can find a full guide on the OnionScan correlation lab [here](doc/correlatio
 
 # <img src="./doc/images/correlation-lab-main.png" title="The main OnionScan Correlation Lab Screen"/>
 
+## Authors
 
+onionscan was originally developed by Sarah Jamie Lewis. This fork is currently maintained by Masayuki Hatta (@mhatta).
